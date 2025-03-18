@@ -76,7 +76,7 @@
       generatedText.value = "";
       const {
         apiKey
-      } = this._props || "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";
+      } = this._props || "sk-proj-I_ywnfAObdPcUq5Z8nMYu_CrYir-B0R8YOrGrudSkkfJgVxelREaLgKI8dgNLBz2eUoComjKdT3BlbkFJfARbRL2Yz6o9DrhlKHz7vhXVwpmCahKsI24w3SS9Df5soj2rq9cdJHK7IZrwtcYbHmjxnuhYUA";
       const {
         max_tokens
       } = this._props || 1024;
