@@ -1,5 +1,5 @@
 {
-    "id": "com.rohitchouhan.sap.chatgptwidget",
+    "id": "com.meghap97.sap.chatGPT_SAC",
     "version": "1.0.3",
     "name": "ChatGPT Widget",
     "description": "ChatGPT Custom Widget for SAP Analytics Cloud, To make your application more useful and effective.",
@@ -11,14 +11,14 @@
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "com-rohitchouhan-sap-chatgptwidget",
+            "tag": "com-meghap97-sap-chatgpt",
             "url": "https://github.com/MeghaP97/ChatGPT_SAC/blob/main/Chatgpt.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
-            "tag": "com-rohitchouhan-sap-chatgptwidget-builder",
+            "tag": "com-meghap97-sap-chatgptbuilder",
             "url": "https://github.com/MeghaP97/ChatGPT_SAC/blob/main/chatgptbuilder.js",
             "integrity": "",
             "ignoreIntegrity": true
